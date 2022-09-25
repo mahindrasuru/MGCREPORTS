@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="dsMarutiCargo">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=108.60.212.87;Initial Catalog=smtcrgvs2_mlc</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>3a55f917-ab55-4690-a065-7c8fbe7649ca</DataSourceID>
+</RptDataSource>
