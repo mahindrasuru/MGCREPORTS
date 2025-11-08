@@ -64,6 +64,8 @@
     <Report Include="csr_console_insurance_a4.rdl" />
     <Report Include="csr_console_load.rdl" />
     <Report Include="csr_nonbilled_a4_l_1.rdl" />
+    <Report Include="delivery_inward_report_load_a4.rdl" />
+    <Report Include="delivery_outward_report_load_a4.rdl" />
     <Report Include="invoice_console_a4_port_bp3.rdl" />
     <Report Include="invoice_console_a4_port_bp3_batch.rdl" />
     <Report Include="invoice_console_a4_port_bp3_batch2.rdl" />
